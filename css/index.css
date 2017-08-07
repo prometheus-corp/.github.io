@@ -29,6 +29,8 @@ img{border-radius: 1000px;}
 .fb{color: white;margin-top: 0px;}
 .fb:hover{color: orange;}
 .shift-le{margin-left: 28%;}
+#pre-feau .maintitle{margin-top: 35%}
+#pre-team .maintitle{margin-top: 12%}
 @media (max-width: 1050px){
     .tab{width: 80%;margin-left: 10%;height: 400px;}
     .content{height:  230px;}
