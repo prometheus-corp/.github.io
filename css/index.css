@@ -17,10 +17,10 @@ body{width: 100%;height: 100%;}
 .tpm{margin-top: .5%;}
 .enlarge {font-size: 7em;}
 .caps{text-transform: uppercase;}
-#about p{font-size: 2em;margin-bottom: 10%;}
+#about p{font-size: 2em;}
 #about h1{margin-top: 5%;}
+#team img{border-radius: 2000px;}
 .bttm{margin-bottom: 5%;}
-img{border-radius: 1000px;}
 .tab{width: 20%;height: 500px;float: left;margin-top: 20px;margin-left: 4%;}
 .profile-img{margin-left: 2%;margin-right: 100px;position: relative; top: 110px;position: relative;}
 .one {background: url('http://www.androidguys.com/wp-content/uploads/2016/05/Poly-Lakeside.jpg')repeat fixed 50% 75%;}
@@ -31,6 +31,8 @@ img{border-radius: 1000px;}
 .shift-le{margin-left: 28%;}
 #pre-feau .maintitle{margin-top: 35%}
 #pre-team .maintitle{margin-top: 12%}
+.exra{margin-top: 0px;}
+.exra:hover{color: black;text-decoration: none;}
 @media (max-width: 1050px){
     .tab{width: 80%;margin-left: 10%;height: 400px;}
     .content{height:  230px;}
