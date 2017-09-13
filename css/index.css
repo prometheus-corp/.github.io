@@ -3,7 +3,7 @@ body{width: 100%;height: 100%;}
 .background{background: url(../Images/test2.jpg)repeat fixed 100%;background-size: cover;height: 100%;}
 .background2{background-color: white; }
 .background3{background-color: orangered; }
-.background4{background-color: orange;height:1200px;width: 100%;}
+.background4{background-color: orange;height:1700px;width: 100%;}
 .background5{background-color: #1c1c1c; }
 .background6{background: url(../Images/test3.jpg)no-repeat fixed 100%; background-size: cover; height: 100%;}
 .background7{background: url(../Images/test.jpg)no-repeat fixed 100%; background-size: cover; height: 100%;}
@@ -32,7 +32,11 @@ body{width: 100%;height: 100%;}
 #pre-feau .maintitle{margin-top: 35%}
 #pre-team .maintitle{margin-top: 12%}
 .exra{margin-top: 0px;}
-.exra:hover{color: black;text-decoration: none;}
+.exra:hover{color: orange;text-decoration: none;}
+.exra2{margin-top: 0px;}
+.exra2:hover{color: orange;text-decoration: none;text-decoration: none;}
+.newsletterbox{border: solid 5px black;background-color: rgba(0,0,0,.7)}
+a:hover {text-decoration: none;}
 @media (max-width: 1050px){
     .tab{width: 80%;margin-left: 10%;height: 400px;}
     .content{height:  230px;}
