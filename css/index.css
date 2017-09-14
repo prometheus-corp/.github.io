@@ -38,10 +38,9 @@ body{width: 100%;height: 100%;}
 .newsletterbox{border: solid 5px black;background-color: rgba(0,0,0,.7)}
 a:hover {text-decoration: none;}
 @media (max-width: 1050px){
-    .tab{width: 80%;margin-left: 10%;height: 400px;}
-    .content{height:  230px;}
-    .background4{height: 4000px;}
+    .tab{width: 80%;margin-left: 10%;height: 440px;}
+    .content{height:  270px;}
     .footer{height: 100px;}
     .maintitle{font-size: 3em;}
-    .background4{height: 3100px;}
+    .background4{height: 4500px;}
 }
